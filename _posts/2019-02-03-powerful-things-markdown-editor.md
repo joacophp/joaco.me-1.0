@@ -3,8 +3,9 @@ layout: post
 title: El futuro, no lejano, del trabajo.
 author: Joaquin O'Gorman
 categories:
-- Jekyll
-- tutorial
+- 'Economía '
+- Educación
+- Delivery
 image: "/assets/images/header.png"
 tags:
 - summer
