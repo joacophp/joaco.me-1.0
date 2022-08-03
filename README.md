@@ -1,10 +1,10 @@
-# Jekyll Mundana Forestry starter
+# Joaco.me (IPFS based personal Blog)
 
-Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mundana-theme-jekyll),
+This site was created to spread and extend my knowledge of the technology industry and complement my current [twitter account](https://twitter.com/JoacoOGorman).
 
 ![Homepage preview](./assets/images/screenshot.jpg)
 
-[Live Preview](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Go to site](https://joaco.me)
 
 ## Requirements
 
@@ -54,6 +54,8 @@ Copy-paste your Git repository URL, accept default settings and click deploy ✨
 That's it, now your site gets deployed automatically on `git push` or when saving documents from Forestry.
 
 ## Feedback
+
+Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mundana-theme-jekyll),
 
 [Open an issue](https://github.com/wowthemesnet/mundana-theme-jekyll/issues) in the theme's repository.
 
