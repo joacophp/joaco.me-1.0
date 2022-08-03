@@ -55,10 +55,10 @@ That's it, now your site gets deployed automatically on `git push` or when savin
 
 ## Feedback
 
-Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mundana-theme-jekyll),
-
 [Open an issue](https://github.com/wowthemesnet/mundana-theme-jekyll/issues) in the theme's repository.
 
 ## LICENSE
+
+Theme designed and developed by [wowthemes](https://github.com/wowthemesnet/mundana-theme-jekyll),
 
 [MIT](LICENSE)
