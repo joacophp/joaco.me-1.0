@@ -5,7 +5,7 @@ categories:
 - Blockchain
 - IPFS
 - WEB3.0
-image: "/assets/images/blockchain.jpg"
+image: "assets/images/blockchain.jpg"
 author: sal
 
 ---
