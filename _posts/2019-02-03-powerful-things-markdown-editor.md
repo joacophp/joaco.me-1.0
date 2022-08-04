@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El futuro, no lejano, del trabajo.
-author: Sal
+author: sal
 categories:
 - 'Economía '
 - Educación
