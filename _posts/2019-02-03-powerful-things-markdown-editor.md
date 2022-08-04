@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El futuro, no lejano, del trabajo.
-author: Joaquin O'Gorman
+author: Sal
 categories:
 - 'Economía '
 - Educación
