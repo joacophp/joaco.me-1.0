@@ -1,20 +1,30 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title: Yerba mate sin trabajo infantil
 author: jane
-categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
-tags: [sticky]
+categories:
+- 'Trabajo Infantil '
+- Desigualdad
+- Derechos Humanos
+image: "/assets/images/nota_yerba_mate.jpg"
+tags:
+- sticky
+
 ---
+Hola, **¿sabías que el Mate, nuestra bebida nacional, contiene trabajo infantil, pobreza e inequidad?** Para acabar con esto necesitamos que el Congreso Nacional apruebe una **Ley que para que se certifique la yerba que se hace sin trabajo infantil**. Así, los consumidores podemos dejar de financiar a los productores de yerba mate que explotan niños. **Necesitamos que nos apoyes con tu firma para que los Diputados y Senadores escuchen nuestro pedido.**
 
-Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
+Nos duele mucho que al tomar mate estemos financiando el flagelo del trabajo infantil en el campo. Empezamos esta campaña en 2014 luego de enterarnos de la historia de Fernando (13) Lucas (14) y Edgard (17), quienes viajaban junto a otros 14 niños en un camión destartalado rumbo al Yerbal en Misiones. **El camión desbarrancó y estos tres chicos perdieron la vida**, pasando a formar parte de una estadística, seguro poco confiable. Lo que no cuentan las estadísticas lo narran los sobrevivientes: el papá de Fernando, Francisco Piñeiro, cuando se dio cuenta de que la caída era inevitable abrazó a su hijo Fernando poniendo su propio cuerpo como barrera. Nada pudo hacer y ambos fallecieron.
 
-#### Early 18th century woodcut of Bucharest
+Los responsables de controlar y generar políticas públicas que terminen con esta violación a los Derechos del Niño, no lo hacen y solo hablan de estadísticas. Por eso **los consumidores de mate tenemos que actuar y exigir una certificación para la yerba mate libre de trabajo infantil.**
 
-The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
+El mate es la bebida más consumida en Argentina (después del agua potable), y una de las fuentes de ingresos más importantes de Misiones. Cada uno de nosotros puede abrazar y salvar a esos niños que trabajan en los campos de cosecha, como intentó hacerlo Francisco con su hijo Fernando. Debemos brindarles la oportunidad de una vida mejor, lejos del abuso, la esclavitud, el peligro, la pobreza y la desigualdad.
 
-The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.
+**Acompáñanos firmando y compartiendo esta petición para que el Congreso apruebe el proyecto de Ley.**
 
-Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
+**Queremos yerba mate sin trabajo infantil.**
 
-Partly destroyed by natural disasters and rebuilt several times during the following 200 years, and hit by Caragea’s plague in 1813–14, the city was wrested from Ottoman control and occupied at several intervals by the Habsburg Monarchy (1716, 1737, 1789) and Imperial Russia (three times between 1768 and 1806). It was placed under Russian administration between 1828 and the Crimean War, with an interlude during the Bucharest-centred 1848 Wallachian revolution. Later, an Austrian garrison took possession after the Russian departure (remaining in the city until March 1857). On 23 March 1847, a fire consumed about 2,000 buildings, destroying a third of the city.
+PODES FIRMAR HACIENDO CLICK EN LA SIGUIENTE IMAGEN:
+
+![](/assets/images/ChangeOrgRGB_Source_1280px.png)
+
+Gracias por firmar.
