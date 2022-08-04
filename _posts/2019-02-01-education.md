@@ -1,8 +1,13 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+title: 'Blockchain: Una solución a la crisis del Almacenamiento.'
+categories:
+- Blockchain
+- IPFS
+- WEB3.0
+image: "/assets/images/blockchain.jpg"
+author: sal
+
 ---
 There are lots of powerful things you can do with the Markdown editor
 
