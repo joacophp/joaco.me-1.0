@@ -59,7 +59,7 @@ Las regulaciones recientes acerca del Copyright ponen en peligro la Internet com
 
 Como mencionábamos anteriormente, la mayoría conoce Blockchain por las criptomonedas que son la manera de intercambiar dinero utilizando esta tecnología. Pero no vamos a profundizar aquí dado que la mayoría ya conoce de qué se tratan estas criptomonedas.
 
-Blockchain es una manera de agrupar información en cadenas de datos. A diferencia de la actualidad esta información se almacena criptograficamente y en bloques. Es decir nadie podrá ver el contenido de la información que se envía excepto su destinatario.
+Blockchain es una manera de agrupar información en cadenas de datos. A diferencia de la actualidad esta información se almacena criptográficamente y en bloques. Es decir nadie podrá ver el contenido de la información que se envía excepto su destinatario.
 
 Utilizando esta tecnología en 2015, [**Juan Benet**](https://twitter.com/juanbenet?lang=es) creo el Sistema Interplanetario de Archivos (IPFS) un protocolo que busca crear un Internet distribuido a través de la tecnología de Blockchain y de las redes P2P (Persona a Persona) para poner fin a los problemas de fragilidad, censura y falta de privacidad de la red actual. De esta manera nos comunicaríamos sin ninguna infraestructura de por medio.
 
